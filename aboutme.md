@@ -3,9 +3,6 @@ layout: page
 title: About me
 subtitle: Or: why you'd want to go on a date with me
 ---
-
-
-
       
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
