@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Saar's Website
+title: Saar Sagir
 
 # Short description of your site
-description: A virtual proof that Saar is awesome!
+description: Event Coordinator
 
 # --- Navigation bar options --- #
 
@@ -54,7 +54,7 @@ footer-link-col: "#404040"
 
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
