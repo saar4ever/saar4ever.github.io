@@ -4,6 +4,13 @@ title: About me
 subtitle: Or: why you'd want to go on a date with me
 ---
 
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      
+      <div id="aboutme-section">
+
+<p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
 Currently an <a href="/shiny"><strong>R-Shiny consultant</strong></a>. Previously worked as a <strong>software engineer</strong> (Google, IBM, <a href="https://tagged.com" target="_blank">Tagged.com</a>) and <strong>web
 developer</strong> in tiny startups (<a href="https://wish.com" target="_blank">Wish.com</a>,
@@ -12,8 +19,9 @@ developer</strong> in tiny startups (<a href="https://wish.com" target="_blank">
 <a href="https://web.archive.org/web/20120309093005/https://www.jauntr.com/" target="_blank">jauntr.com</a>).
 </p>
 
+
 <p class="about-text">
-<span class="fa fa-graduation-cap about-icon"></span>
+span class="fa fa-graduation-cap about-icon"></span>
 Obtained my MSc in <strong>Bioinformatics</strong> from the University of British Columbia (supervised by the amazing
 <a href="https://twitter.com/JennyBryan" target="_blank">Jenny Bryan</a>) and my Bachelor of <strong>Computer Science</strong> from the
 University of Waterloo, Canada. My masters thesis project involved
