@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: Or: why you'd want to go on a date with me
 ---
-      
+
 <span class="fa fa-briefcase about-icon"></span>
 Currently an <a href="/shiny"><strong>R-Shiny consultant</strong></a>. Previously worked as a <strong>software engineer</strong> (Google, IBM, <a href="https://tagged.com" target="_blank">Tagged.com</a>) and <strong>web
 developer</strong> in tiny startups (<a href="https://wish.com" target="_blank">Wish.com</a>,
@@ -11,14 +11,12 @@ developer</strong> in tiny startups (<a href="https://wish.com" target="_blank">
 <a href="http://glittr.com" target="_blank">glittr.com</a>,
 <a href="https://web.archive.org/web/20120309093005/https://www.jauntr.com/" target="_blank">jauntr.com</a>).
 
-
-span class="fa fa-graduation-cap about-icon"></span>
+<span class="fa fa-graduation-cap about-icon"></span>
 Obtained my MSc in <strong>Bioinformatics</strong> from the University of British Columbia (supervised by the amazing
 <a href="https://twitter.com/JennyBryan" target="_blank">Jenny Bryan</a>) and my Bachelor of <strong>Computer Science</strong> from the
 University of Waterloo, Canada. My masters thesis project involved
 <a href="https://github.com/daattali/ddpcr" target="_blank">developing computational methods to automatically analyze
 droplet digital PCR</a> data.
-
 
 <span class="fa fa-code about-icon"></span>
 I enjoy writing <strong>useful & reusable software tools</strong> to help others &mdash; check out <a href="/projects">my projects</a>. In the past several years I've become an experienced R useR and an expert in R-Shiny.
@@ -36,4 +34,4 @@ Grew up in <i>Tel Aviv, Israel</i>; moved to <i>Toronto, Canada</i> during my te
 <p>I also have <a href="https://deanat78.wordpress.com/">an old blog</a>, mostly from high school and some old travelling trips, that I'll leave here just because I want to have a reference to it somewhere.</p>
 
 
-### About V1.1
+### About V1.2
