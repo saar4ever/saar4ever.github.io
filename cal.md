@@ -32,7 +32,7 @@ subtitle: Jewish Young Adult Bay Area Events
 </script>
 
 
-</div><div id='calendar'></div>
+<div id='calendar'></div>
 
 # The Past v3.1
 
