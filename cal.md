@@ -6,7 +6,7 @@ subtitle: Jewish Young Adult Bay Area Events
 
 <link rel='stylesheet' href='css/fullcalendar.css' />
 <script src='js/jquery.min.js'></script>
-<script src='js/moment.min.js'></script>
+<script src='js/moment.js'></script>
 <script src='js/fullcalendar.js'></script>
 <script type='text/javascript' src='js/gcal.js'></script>
 
