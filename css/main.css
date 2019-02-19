@@ -812,8 +812,8 @@ td.gutter {
  /* Responsive iFrame */
  .responsive-iframe-container {
      position: relative;
-     padding-bottom: 90%;
-     padding-top: 30px;
+     padding-bottom: 80%;
+     padding-top: 0px;
      height: 0;
      overflow: hidden;
  }
