@@ -5,7 +5,7 @@ subtitle: Or: why you'd want to go on a date with me
 ---
 
 
-# Testing 123
+**What's up world?**
 
 <span class="fa fa-briefcase about-icon"></span>
 Currently an <a href="/shiny"><strong>R-Shiny consultant</strong></a>. Previously worked as a <strong>software engineer</strong> (Google, IBM, <a href="https://tagged.com" target="_blank">Tagged.com</a>) and <strong>web
