@@ -6,12 +6,7 @@ subtitle: Or: why you'd want to go on a date with me
 
 
 
-<div class="container" role="main">
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       
-      <div id="aboutme-section">
-
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
 Currently an <a href="/shiny"><strong>R-Shiny consultant</strong></a>. Previously worked as a <strong>software engineer</strong> (Google, IBM, <a href="https://tagged.com" target="_blank">Tagged.com</a>) and <strong>web
@@ -54,8 +49,5 @@ Grew up in <i>Tel Aviv, Israel</i>; moved to <i>Toronto, Canada</i> during my te
 
 <p>I also have <a href="https://deanat78.wordpress.com/">an old blog</a>, mostly from high school and some old travelling trips, that I'll leave here just because I want to have a reference to it somewhere.</p>
 
-</div></div></div></div>
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### About V1.1
