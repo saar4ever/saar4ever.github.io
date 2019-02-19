@@ -24,6 +24,7 @@ description: A virtual proof that Saar is awesome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Test Page: "hello"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
