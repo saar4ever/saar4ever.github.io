@@ -4,6 +4,8 @@ title: About me
 subtitle: Or: why you'd want to go on a date with me
 ---
 
+
+
 <div class="container" role="main">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -51,6 +53,8 @@ Grew up in <i>Tel Aviv, Israel</i>; moved to <i>Toronto, Canada</i> during my te
 </p>
 
 <p>I also have <a href="https://deanat78.wordpress.com/">an old blog</a>, mostly from high school and some old travelling trips, that I'll leave here just because I want to have a reference to it somewhere.</p>
+
+</div></div></div></div>
 
 ### my history
 
