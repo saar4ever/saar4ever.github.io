@@ -1,11 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Or: why you'd want to go on a date with me
+subtitle: "Or: why you'd want to go on a date with me"
 ---
-
-
-**What's up world?**
 
 <span class="fa fa-briefcase about-icon"></span>
 Currently an <a href="/shiny"><strong>R-Shiny consultant</strong></a>. Previously worked as a <strong>software engineer</strong> (Google, IBM, <a href="https://tagged.com" target="_blank">Tagged.com</a>) and <strong>web
@@ -26,10 +23,10 @@ I enjoy writing <strong>useful & reusable software tools</strong> to help others
 
 <span class="fa fa-heart about-icon"></span>
 I'm addicted to soccer, <strong>travelling</strong> at any given (and non-given) moment, getting into philosophical debates,
-and meeting new people :) 
+and meeting new people :)
 
 <span class="fa fa-file-text-o about-icon"></span>
-The <strong><a href="/projects">projects</a></strong> page is a nice place to see some of my work, but you can also view my (somewhat outdated) <a href="/resume">resume</a>. 
+The <strong><a href="/projects">projects</a></strong> page is a nice place to see some of my work, but you can also view my (somewhat outdated) <a href="/resume">resume</a>.
 
 <span class="fa fa-globe about-icon"></span>
 Grew up in <i>Tel Aviv, Israel</i>; moved to <i>Toronto, Canada</i> during my teens; worked in <i>San Francisco</i> after undergrad; crossed the border again to <i>Vancouver, Canada</i> for grad school; spent many months in other countries backpacking; returned to <i>Toronto</i> in 2017.
