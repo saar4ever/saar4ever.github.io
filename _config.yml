@@ -24,7 +24,7 @@ description: A virtual proof that Saar is awesome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Test Page: "hello"
+  Events: "cal"
   Author's home: "http://www.saarx.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
