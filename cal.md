@@ -16,7 +16,7 @@ subtitle: Jewish Young Adult Bay Area Events
       header: {
         left: 'prev,next today',
         center: 'title',
-        right: 'month,listYear'
+        right: 'month,listWeek'
       },
       displayEventTime: true,
       defaultView: 'month',
@@ -28,44 +28,11 @@ subtitle: Jewish Young Adult Bay Area Events
       }
     });
     if($( document ).width() < 700){
-       <!-- document.write($( document ).width()); -->
        $('#calendar').fullCalendar('changeView', 'listWeek');
     }
   });
 </script>
 
-<div class="small-container">
-    <script>
-    var height = $( document ).width();
-    document.write("Width is - " + height);
-        <!-- $(function() {
-            if($( document ).width() <= 400){
-                <!-- $('#calendar').fullCalendar('changeView', 'listWeek'); -->
-            } else{
-                $('#calendar').fullCalendar('changeView', 'agendaWeek');
-            }
-        }); -->
-    </script>
-    Goodbye Earth
-</div>
-<!-- var locale = $('#calendar').fullCalendar('option', 'locale'); -->
-
-
-<div class="big-container">
-    <!-- <script>
-        $(function() {
-            $('#calendar').fullCalendar('changeView', 'listWeek');
-        });
-    </script> -->
-    Hello World
-</div>
-
 <div id='calendar'></div>
 
-
-# The Past v3.6
-
-<!-- <div class="responsive-iframe-container small-container"><iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=800&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=bsp4pl7nrmbt1merbkuehqluj4%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="700" height="600" frameborder="0" scrolling="no"></iframe></div>
-<div class="responsive-iframe-container big-container"><iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;height=800&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=bsp4pl7nrmbt1merbkuehqluj4%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="1000" height="700" frameborder="0" scrolling="no"></iframe></div> -->
-
-### Calendar
+# The Calendar 4.0
