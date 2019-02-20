@@ -14,12 +14,12 @@ subtitle: Jewish Young Adult Bay Area Events
   $(function() {
     $('#calendar').fullCalendar({
       header: {
-        left: 'prev,next',
+        left: 'prev,next today',
         center: 'title',
-        right: 'today'
+        right: 'month,listYear'
       },
       displayEventTime: true,
-      defaultView: 'listWeek',
+      defaultView: 'month',
       googleCalendarApiKey: 'AIzaSyAFJI5E7tJ3y143JM3ZWrzTWlScQxNQntg',
       events: 'bsp4pl7nrmbt1merbkuehqluj4@group.calendar.google.com',
       eventClick: function(event) {
@@ -27,10 +27,10 @@ subtitle: Jewish Young Adult Bay Area Events
         return false;
       }
     });
-    <!-- if($( document ).width() >= 400){ -->
-       <!-- document.write("Into the system"); -->
-       $('#calendar').fullCalendar('changeView', 'month');
-    <!-- } -->
+    if($( document ).width() < 700){
+       <!-- document.write($( document ).width()); -->
+       $('#calendar').fullCalendar('changeView', 'listWeek');
+    }
   });
 </script>
 
@@ -38,15 +38,15 @@ subtitle: Jewish Young Adult Bay Area Events
     <script>
     var height = $( document ).width();
     document.write("Width is - " + height);
-        $(function() {
+        <!-- $(function() {
             if($( document ).width() <= 400){
                 <!-- $('#calendar').fullCalendar('changeView', 'listWeek'); -->
             } else{
                 $('#calendar').fullCalendar('changeView', 'agendaWeek');
             }
-        });
+        }); -->
     </script>
-    <!-- Goodbye Earth -->
+    Goodbye Earth
 </div>
 <!-- var locale = $('#calendar').fullCalendar('option', 'locale'); -->
 
