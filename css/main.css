@@ -783,6 +783,13 @@ td.gutter {
   font-size: 16px;
 }
 
-.fc h2 {
-   font-size: 24px;
-}
+ @media (max-width: 549px) {
+    .fc h2 {
+    font-size: 16px;
+    }
+ }
+ @media (min-width: 550px) {
+    .fc h2 {
+    font-size: 32px;
+    }
+ }
