@@ -17,7 +17,7 @@ bigimg:
         <span class="fa fa-briefcase" style="font-size: 1.2em;"></span>
     </div>
     <div class="col-sm-offset-1 col-xs-offset-2">
-        Currently a <b>Software Developer</b> at <b>IBM</b>. Full stack DevOps Engineer working on IMS Databases
+        Currently a <b>Software Developer</b> at <b>IBM</b>. Full stack DevOps Engineer
     </div>
     <p></p>
     <div class="col-sm-1 col-xs-1">
