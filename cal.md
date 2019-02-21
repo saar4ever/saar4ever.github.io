@@ -16,7 +16,7 @@ subtitle: Jewish Young Adult Bay Area Events
   $(function() {
     $('#calendar').fullCalendar({
       header: {
-        left: 'prev,next today',
+        left: 'prev,next',
         center: 'title',
         right: 'month,listWeek'
       },
