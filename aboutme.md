@@ -2,6 +2,13 @@
 layout: page
 title: About me
 subtitle: "Or: why you'd want to go on a date with me"
+bigimg:
+  - /img/big-imgs/1701Bahamas.jpg: Bahamas, Jan 2017
+  - /img/big-imgs/1707MexicoCruise.jpg: Mexico Cruise, July 2017
+  - /img/big-imgs/1712Israel.jpg: Israel, Dec 2017
+  - /img/big-imgs/1802JHTC.jpg: JHTC 2.0 Stoplight Party, Feb 2018
+  - /img/big-imgs/1805LA.jpg: LA, May 2018
+  - /img/big-imgs/1810Rafting.jpg: Rafting, Oct 2018
 ---
 
 <div class="row">
