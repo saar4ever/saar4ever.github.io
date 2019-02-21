@@ -9,6 +9,8 @@ subtitle: Jewish Young Adult Bay Area Events
 <script src='/js/moment.js'></script>
 <script src='/js/fullcalendar.js'></script>
 <script type='text/javascript' src='/js/gcal.js'></script>
+<link href='https://bootswatch.com/3/paper/bootstrap.min.css' rel='stylesheet' />
+
 
 <script>
   $(function() {
@@ -18,7 +20,10 @@ subtitle: Jewish Young Adult Bay Area Events
         center: 'title',
         right: 'month,listWeek'
       },
+      themeSystem: 'bootstrap3',
       displayEventTime: true,
+      eventLimit: true,
+      height: 800,
       defaultView: 'month',
       googleCalendarApiKey: 'AIzaSyAFJI5E7tJ3y143JM3ZWrzTWlScQxNQntg',
       events: 'bsp4pl7nrmbt1merbkuehqluj4@group.calendar.google.com',
