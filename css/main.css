@@ -793,3 +793,8 @@ td.gutter {
     font-size: 32px;
     }
  }
+
+.fc-today {
+  background-color:#fcf8e3 !important;
+  color: gray !important;
+}
