@@ -3,3 +3,4 @@ ports:
 - port: 4001
 tasks:
 - command: bundle install
+- command: bundle exec jekyll serve --host 0.0.0.0
