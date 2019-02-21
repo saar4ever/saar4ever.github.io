@@ -39,5 +39,3 @@ subtitle: Jewish Young Adult Bay Area Events
 </script>
 
 <div id='calendar'></div>
-
-# The Calendar 4.0

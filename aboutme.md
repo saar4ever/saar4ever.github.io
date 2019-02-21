@@ -4,7 +4,6 @@ title: About me
 subtitle: "Or: why you'd want to go on a date with me"
 ---
 
-
 <div class="row">
     <span style="font-size: 20px;">
         <p><div class="col-sm-1 col-xs-1"><span class="fa fa-briefcase" style="font-size: 1.2em;"></span></div>
@@ -33,5 +32,3 @@ subtitle: "Or: why you'd want to go on a date with me"
         </div></p>
     </span>
 </div>
-
-### About V1.5
