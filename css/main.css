@@ -783,17 +783,23 @@ td.gutter {
   font-size: 16px;
 }
 
+/* New content */
  @media (max-width: 549px) {
     .fc h2 {
     font-size: 16px;
+    }
+    div.rtext {
+    font-size: medium;
     }
  }
  @media (min-width: 550px) {
     .fc h2 {
     font-size: 32px;
     }
+    div.rtext {
+    font-size: x-large;
+    }
  }
-
 .fc-today {
   background-color:#fcf8e3 !important;
   color: gray !important;
