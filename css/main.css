@@ -299,6 +299,7 @@ footer .copyright {
 footer .theme-by {
   text-align: center;
   margin: 10px 0 0;
+  font-size: 12px;
 }
 
 @media only screen and (min-width: 768px) {
@@ -309,7 +310,7 @@ footer .theme-by {
     font-size: 18px;
   }
   footer .copyright {
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 
