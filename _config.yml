@@ -23,8 +23,9 @@ description: Social And Altruistic Renegade Xtraordinaire
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme/"
-  Events: "cal/"
+  About Me: "https://saarx.com/aboutme/"
+  Events: "https://saarx.com/cal/"
+  Cohosts: "https://saarx.com/cohost/"
   Home: "https://saarx.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
