@@ -810,10 +810,15 @@ td.gutter {
   right: 0;
   bottom: 0;
 }
-
 .row-eq-height {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
   display:         flex;
+}
+.vcenter {
+   display: flex;
+   align-items: center;
+   float: none;
+   justify-items: center;
 }
