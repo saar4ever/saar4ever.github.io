@@ -832,6 +832,6 @@ td.gutter {
 .vcenter {
    display: flex;
    align-items: center;
+   text-align: center;
    float: none;
-   justify-items: center;
 }
