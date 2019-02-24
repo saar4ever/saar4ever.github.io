@@ -25,6 +25,7 @@ subtitle: Jewish Young Adult Bay Area Events
       eventLimit: true,
       height: 800,
       defaultView: 'month',
+      fixedWeekCount: false,
       googleCalendarApiKey: 'AIzaSyAFJI5E7tJ3y143JM3ZWrzTWlScQxNQntg',
       events: 'bsp4pl7nrmbt1merbkuehqluj4@group.calendar.google.com',
       eventClick: function(event) {
