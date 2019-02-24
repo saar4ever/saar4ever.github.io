@@ -486,7 +486,7 @@ footer .theme-by {
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 27px;
+  font-size: 21px;
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -532,6 +532,9 @@ footer .theme-by {
   }
   .intro-header .page-heading h1 {
     font-size: 80px;
+  }
+  .intro-header .page-heading .page-subheading {
+    font-size: 27px;
   }
   .intro-header .post-heading h1 {
     font-size: 50px;
