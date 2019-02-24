@@ -792,6 +792,9 @@ td.gutter {
     div.rtext {
     font-size: medium;
     }
+    .btn {
+    font-size: medium;
+    }
  }
  @media (min-width: 550px) {
     .fc h2 {
@@ -799,6 +802,9 @@ td.gutter {
     }
     div.rtext {
     font-size: x-large;
+    }
+    .btn {
+    font-size: large;
     }
  }
 .fc-today {
