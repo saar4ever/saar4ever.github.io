@@ -838,3 +838,6 @@ td.gutter {
    text-align: center;
    float: none;
 }
+.cleantxt {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}

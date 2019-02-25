@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: "Or: why you'd want to go on a date with me"
+subtitle: "Or: why you'd want to get to know me better"
 bigimg:
   - /img/big-imgs/1512Sister.jpg: Ice Skating with Sister, May 2015
   - /img/big-imgs/1701Bahamas.jpg: Bahamas, Jan 2017
