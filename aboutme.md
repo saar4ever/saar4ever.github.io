@@ -32,7 +32,7 @@ bigimg:
         <span class="fa fa-code" style="font-size: 1.2em;"></span>
     </div>
     <div class="col-sm-offset-1 col-xs-offset-2">
-        Love tinkering with code and finding creative ways to break things and make them do what you want, also known as hacking :) Test
+        Love tinkering with code and finding creative ways to break things and make them do what you want, also known as hacking :)
     </div>
     <p></p>
     <div class="col-sm-1 col-xs-1">
