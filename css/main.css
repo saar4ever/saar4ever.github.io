@@ -792,20 +792,13 @@ td.gutter {
   .fc h2 {
     font-size: 12px;
   }
-}
-@media (max-width: 349px) {
-  .btn {
-    font-size: x-small;
-  }
-}
-@media (max-width: 399px) and (min-width: 350px) {
   .btn {
     font-size: small;
   }
 }
 @media (max-width: 599px) and (min-width: 400px)  {
   .btn {
-    font-size: medium;
+    font-size: large;
   }
   .intro-header .page-heading h1 {
     font-size: 40px;
@@ -822,7 +815,7 @@ td.gutter {
     font-size: 32px;
   }
   .btn {
-    font-size: larger;
+    font-size: x-large;
   }
 }
 .fc-today {
@@ -865,7 +858,7 @@ td.gutter {
   margin: 0;
   padding: 0;
   /* position: fixed; */
-  margin-top: -20px;
+  margin-top: -35px;
 }
 .button-row ul {
   list-style: none;
@@ -880,7 +873,7 @@ td.gutter {
   list-style: none;
   margin: 0;
   padding: 0;
-  width: 33%;
+  width: 34%;
   text-align: center;
 }
 .button-row ul li a {
@@ -888,5 +881,6 @@ td.gutter {
   margin: 0 0 0 0px;
   padding: 5px 10px;
   text-decoration: none;
-  line-height: 3em;
+  line-height: 3.5em;
+  border-radius: 0 !important;
 }
