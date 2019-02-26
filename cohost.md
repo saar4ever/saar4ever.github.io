@@ -23,5 +23,3 @@ Current planned events looking for cohosts and volunteers:
 <br/>
 <center><h4>If you're interested in helping</h4>
 <h2>Message me at <a href="https://www.facebook.com/messages/t/sagirsaar">Saar Sagir</a></h2></center>
-<br/><br/>
-Comment below if you have any questions or suggestions about this page
