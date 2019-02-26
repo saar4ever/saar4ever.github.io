@@ -8,3 +8,4 @@ gem 'jekyll-paginate'
 gem 'nokogiri'
 gem 'rack', '~> 2.0.1'
 gem 'rspec'
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
