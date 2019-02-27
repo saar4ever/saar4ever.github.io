@@ -850,7 +850,7 @@ td.gutter {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 /* remove rounding from cards, buttons and inputs */
-.btn { 
+.btn {
   border-radius: 20;
 }
 .button-row {

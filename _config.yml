@@ -143,9 +143,9 @@ staticman:
 # Facebook App ID
 # fb_app_id: ""
 
-# Excerpt Word Length
+# Excerpt Word Length // Doesn't work right now, hard coded in index.html
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 200
+# excerpt_length: 50
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title

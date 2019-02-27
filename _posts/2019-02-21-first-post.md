@@ -5,7 +5,7 @@ image: /img/hello_world.jpeg
 comments: true
 ---
 
-This is my first post, how exciting! The purpose of this website is to have a central location for people to check all the Jewish Young Adult Events in the Bay on a single [calendar](/cal/)
+The purpose of this website is to have a central location for people to check and cohost all the Jewish Young Adult Events in the Bay on a single [calendar](/cal/)
 
 This website was officially created on [Feb 18th, 2019](https://whois.icann.org/en/lookup?name=saarx.com)
 
