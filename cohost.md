@@ -91,8 +91,8 @@ JotForm.paymentExtrasOnTheFly([null,null,{"name":"submitForm","qid":"2","text":"
 
 
     .form-line {
-      margin-top: 12px;
-      margin-bottom: 12px;
+      margin-top: 6px;
+      margin-bottom: 6px;
     }
 
     .form-all {
@@ -223,10 +223,10 @@ JotForm.paymentExtrasOnTheFly([null,null,{"name":"submitForm","qid":"2","text":"
       </li>
       <li class="form-line" data-type="control_phone" id="id_22">
         <label class="form-label form-label-left form-label-auto" id="label_22" for="input_22_full"> Phone Number </label>
-        <div id="cid_22" class="form-input">
+        <div id="cid_22" class="form-input wide120">
           <span class="form-sub-label-container" style="vertical-align:top">
-            <input type="tel" id="input_22_full" name="q22_phoneNumber[full]" data-type="mask-number" class="mask-phone-number form-textbox validate[Fill Mask]" autoComplete="off" data-masked="true" value="" data-component="phone" />
-            <label class="form-sub-label" for="input_22_masked" id="sublabel_masked" style="min-height:13px">  </label>
+            <input type="tel" id="input_22_full" name="q22_phoneNumber[full]" data-type="mask-number" class="mask-phone-number form-textbox validate[Fill Mask] wide120" autoComplete="off" data-masked="true" value="" data-component="phone" />
+            <!-- <label class="form-sub-label" for="input_22_masked" id="sublabel_masked" style="min-height:13px">  </label> -->
           </span>
         </div>
       </li>
@@ -237,8 +237,8 @@ JotForm.paymentExtrasOnTheFly([null,null,{"name":"submitForm","qid":"2","text":"
             *
           </span>
         </label>
-        <div id="cid_9" class="form-input jf-required">
-          <input type="email" id="input_9" name="q9_email9" class="form-textbox validate[required, Email]" size="30" value="" placeholder="ex: myname@example.com" data-component="email" required="" />
+        <div id="cid_9" class="form-input jf-required wide190">
+          <input type="email" id="input_9" name="q9_email9" class="form-textbox validate[required, Email] wide190" size="30" value="" placeholder="ex: myname@example.com" data-component="email" required="" />
         </div>
       </li>
       <li class="form-line" data-type="control_checkbox" id="id_14">
@@ -282,7 +282,7 @@ JotForm.paymentExtrasOnTheFly([null,null,{"name":"submitForm","qid":"2","text":"
         <label class="form-label form-label-left form-label-auto" id="label_16" for="input_16"> Comments </label>
         <div id="cid_16" class="form-input">
           <span class="form-sub-label-container" style="vertical-align:top">
-            <textarea id="input_16" class="form-textarea" name="q16_comments" cols="40" rows="6" data-component="textarea"></textarea>
+            <textarea id="input_16" class="form-textarea" name="q16_comments" cols="40" rows="3" data-component="textarea"></textarea>
             <label class="form-sub-label" for="input_16" style="min-height:13px"> Let me know if you want to add events looking for volunteers </label>
           </span>
         </div>

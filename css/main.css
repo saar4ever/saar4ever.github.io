@@ -850,6 +850,15 @@ td.gutter {
 .cleantxt {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
+.wide120 {
+  width:120px!important;
+}
+#input_14{
+  width:120px!important;
+}
+.wide190 {
+  width:190px!important;
+}
 .halfwide {
   width:50%!important;
 }

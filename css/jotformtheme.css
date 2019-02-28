@@ -442,7 +442,7 @@ li[data-type="control_image"] img {
   .form-dropdown,
   .form-textarea,
   .form-textbox {
-    width: 80%!important;
+    width: 100%!important;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -462,7 +462,7 @@ li[data-type="control_image"] img {
   .form-address-table .form-sub-label-container,
   .form-address-table select,
   .form-input {
-    width: 80%;
+    width: 100%;
   }
   div.form-header-group {
     padding: 24px 0px !important;
@@ -489,7 +489,7 @@ li[data-type="control_image"] img {
     width: 65%;
   }
   [data-type=control_phone] .form-sub-label-container:first-child {
-    width: 31%;
+    width: 150px;
     margin-right: 4%;
   }
   [data-type=control_datetime] .form-sub-label-container + .form-sub-label-container,
