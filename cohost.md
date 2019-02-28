@@ -5,21 +5,337 @@ subtitle: "Looking for people to partner with me on events"
 comments: true
 ---
 
-<center><h3> Work in Progress </h3></center>
-
-Planning to have this page contain forms to fill out with name, email, and phone number for people interested in volunteering for specific events
-
-Current planned events looking for cohosts and volunteers:
+Current events list looking for volunteers:
 
 - **Overnight to Yosemite**, April 12th-14th
-  - Looking for help with getting or preparing Kosher Food  
-<br/>
+  - Looking for help with getting or preparing Kosher Food
 - **Yom Hatzmaut Party** in South Bay, May 12th
-  - Looking for more funding for our massive 200+ people party  
-<br/>
+  - Looking for more funding for our massive 200+ people party
 - **Talent Show**, mid April (TBD)
   - Looking for help with logistics
-  - Need more people to perform for the show  
-<br/>
-<center><h4>If you're interested in helping</h4>
-<h2>Message me at <a href="https://www.facebook.com/messages/t/sagirsaar">Saar Sagir</a></h2></center>
+  - Need more people to perform for the show
+- **Napa/Tahoe trip**, May (TBD)
+  - Working with CYP, looking for help with logistics
+<br>
+
+If you're looking for volunteers for your events, message me at <a href="https://www.facebook.com/messages/t/sagirsaar">Saar Sagir</a>
+
+<center><h4>Please fill out the form below if you're able to help</h4></center>
+
+<script src="https://cdn.jotfor.ms/js/vendor/jquery-1.8.0.min.js?v=3.3.10207" type="text/javascript"></script>
+<script src="https://cdn.jotfor.ms/js/vendor/maskedinput.min.js?v=3.3.10207" type="text/javascript"></script>
+<script src="https://cdn.jotfor.ms/js/vendor/jquery.maskedinput.min.js?v=3.3.10207" type="text/javascript"></script>
+<script src="https://cdn.jotfor.ms/static/prototype.forms.js" type="text/javascript"></script>
+<script src="https://cdn.jotfor.ms/static/jotform.forms.js?3.3.10207" type="text/javascript"></script>
+<script type="text/javascript">
+   JotForm.setConditions([{"action":[{"field":"21","visibility":"Show","id":"action_0_1551310672039"}],"id":"1551310644216","index":"0","link":"Any","priority":"0","terms":[{"field":"11","operator":"equals","value":"Other"}],"type":"field"}]);
+	JotForm.init(function(){
+      JotForm.setPhoneMaskingValidator( 'input_22_full', '(###) ###-####' );
+      setTimeout(function() {
+          $('input_9').hint('ex: myname@example.com');
+       }, 20);
+    /*INIT-END*/
+	});
+
+   JotForm.prepareCalculationsOnTheFly([null,null,{"name":"submitForm","qid":"2","text":"Submit Form","type":"control_button"},{"name":"fullName","qid":"3","text":"Full Name","type":"control_fullname"},null,null,null,null,null,{"name":"email9","qid":"9","text":"E-mail","type":"control_email"},null,null,null,null,{"name":"interestedIn14","qid":"14","text":"Interested in:","type":"control_checkbox"},null,{"name":"comments","qid":"16","subLabel":"Let me know if you want to add events looking for volunteers","text":"Comments","type":"control_textarea"},{"name":"cohostEvents","qid":"17","text":"Cohost here!","type":"control_head"},null,null,null,null,{"description":"","name":"phoneNumber","qid":"22","text":"Phone Number","type":"control_phone"}]);
+   setTimeout(function() {
+JotForm.paymentExtrasOnTheFly([null,null,{"name":"submitForm","qid":"2","text":"Submit Form","type":"control_button"},{"name":"fullName","qid":"3","text":"Full Name","type":"control_fullname"},null,null,null,null,null,{"name":"email9","qid":"9","text":"E-mail","type":"control_email"},null,null,null,null,{"name":"interestedIn14","qid":"14","text":"Interested in:","type":"control_checkbox"},null,{"name":"comments","qid":"16","subLabel":"Let me know if you want to add events looking for volunteers","text":"Comments","type":"control_textarea"},{"name":"cohostEvents","qid":"17","text":"Cohost here!","type":"control_head"},null,null,null,null,{"description":"","name":"phoneNumber","qid":"22","text":"Phone Number","type":"control_phone"}]);}, 20);
+</script>
+<link href="https://cdn.jotfor.ms/static/formCss.css?3.3.10207" rel="stylesheet" type="text/css" />
+<link type="text/css" media="print" rel="stylesheet" href="https://cdn.jotfor.ms/css/printForm.css?3.3.10207" />
+<link type="text/css" rel="stylesheet" href="https://cdn.jotfor.ms/css/styles/nova.css?3.3.10207" />
+<link type="text/css" rel="stylesheet" href="https://cdn.jotfor.ms/themes/CSS/566a91c2977cdfcd478b4567.css?themeRevisionID=59fb4852cf3bfe589c6c6f21"/>
+<style type="text/css">
+    .form-label-left{
+        width:150px;
+    }
+    .form-line{
+        padding-top:12px;
+        padding-bottom:12px;
+    }
+    .form-label-right{
+        width:150px;
+    }
+    .form-all{
+        width:650px;
+        color:#3e4e1a !important;
+        font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, sans-serif;
+        font-size:14px;
+    }
+    .form-radio-item label, .form-checkbox-item label, .form-grading-label, .form-header{
+        color: false;
+    }
+
+</style>
+
+<style type="text/css" id="form-designer-style">
+    /* Injected CSS Code */
+.form-label.form-label-auto {
+
+      display: block;
+      float: none;
+      text-align: left;
+      width: 100%;
+
+      }/*PREFERENCES STYLE*/
+    .form-all {
+      font-family: Lucida Grande, sans-serif;
+    }
+    .form-all .qq-upload-button,
+    .form-all .form-submit-button,
+    .form-all .form-submit-reset,
+    .form-all .form-submit-print {
+      font-family: Lucida Grande, sans-serif;
+    }
+    .form-all .form-pagebreak-back-container,
+    .form-all .form-pagebreak-next-container {
+      font-family: Lucida Grande, sans-serif;
+    }
+    .form-header-group {
+      font-family: Lucida Grande, sans-serif;
+    }
+    .form-label {
+      font-family: Lucida Grande, sans-serif;
+    }
+
+    .form-label.form-label-auto {
+
+    display: block;
+    float: none;
+    text-align: left;
+    width: 100%;
+
+    }
+
+    .form-line {
+      margin-top: 12px 36px 12px 36px px;
+      margin-bottom: 12px 36px 12px 36px px;
+    }
+
+    .form-all {
+      width: 650px;
+    }
+
+    .form-label-left,
+    .form-label-right,
+    .form-label-left.form-label-auto,
+    .form-label-right.form-label-auto {
+      width: 150px;
+    }
+
+    .form-all {
+      font-size: 14px
+    }
+    .form-all .qq-upload-button,
+    .form-all .qq-upload-button,
+    .form-all .form-submit-button,
+    .form-all .form-submit-reset,
+    .form-all .form-submit-print {
+      font-size: 14px
+    }
+    .form-all .form-pagebreak-back-container,
+    .form-all .form-pagebreak-next-container {
+      font-size: 14px
+    }
+
+    .supernova .form-all, .form-all {
+      background-color: rgba(213,238,243,0.5);
+      border: 1px solid transparent;
+    }
+
+    .form-all {
+      color: #3e4e1a;
+    }
+    .form-header-group .form-header {
+      color: #3e4e1a;
+    }
+    .form-header-group .form-subHeader {
+      color: #3e4e1a;
+    }
+    .form-label-top,
+    .form-label-left,
+    .form-label-right,
+    .form-html,
+    .form-checkbox-item label,
+    .form-radio-item label {
+      color: #3e4e1a;
+    }
+    .form-sub-label {
+      color: #586834;
+    }
+
+    .supernova {
+      background-color: rgba(255,255,255,0);
+    }
+    .supernova body {
+      background: transparent;
+    }
+
+    .form-textbox,
+    .form-textarea,
+    .form-radio-other-input,
+    .form-checkbox-other-input,
+    .form-captcha input,
+    .form-spinner input {
+      background-color: rgba(255,255,255,0.5);
+    }
+
+    .supernova {
+      background-image: none;
+    }
+    #stage {
+      background-image: none;
+    }
+
+    .form-all {
+      background-image: none;
+    }
+
+  .ie-8 .form-all:before { display: none; }
+  .ie-8 {
+    margin-top: auto;
+    margin-top: initial;
+  }
+
+  /*PREFERENCES STYLE*//*__INSPECT_SEPERATOR__*/
+    /* Injected CSS Code */
+</style>
+
+<link type="text/css" rel="stylesheet" href="https://cdn.jotfor.ms/css/styles/buttons/form-submit-button-simple_green_apple.css?3.3.10207"/>
+<form class="jotform-form" action="https://submit.jotform.us/submit/90577425056158/" method="post" name="form_90577425056158" id="90577425056158" accept-charset="utf-8">
+  <input type="hidden" name="formID" value="90577425056158" />
+  <div class="form-all">
+    <ul class="form-section page-section">
+      <li id="cid_17" class="form-input-wide" data-type="control_head">
+        <div class="form-header-group ">
+          <div class="header-text httac htvam">
+            <h2 id="header_17" class="form-header" data-component="header">
+              Cohost here!
+            </h2>
+            <div id="subHeader_17" class="form-subHeader">
+              Enter your contact info below and Saar will reach out to you to connect you to the right people and be part of creating these incredible events
+            </div>
+          </div>
+        </div>
+      </li>
+      <li class="form-line jf-required" data-type="control_fullname" id="id_3">
+        <label class="form-label form-label-top" id="label_3" for="first_3">
+          Full Name
+          <span class="form-required">
+            *
+          </span>
+        </label>
+        <div id="cid_3" class="form-input-wide jf-required">
+          <div data-wrapper-react="true">
+            <span class="form-sub-label-container" style="vertical-align:top">
+              <input type="text" id="first_3" name="q3_fullName[first]" class="form-textbox validate[required]" size="10" value="" data-component="first" required="" />
+              <label class="form-sub-label" for="first_3" id="sublabel_first" style="min-height:13px"> First Name </label>
+            </span>
+            <span class="form-sub-label-container" style="vertical-align:top">
+              <input type="text" id="last_3" name="q3_fullName[last]" class="form-textbox validate[required]" size="15" value="" data-component="last" required="" />
+              <label class="form-sub-label" for="last_3" id="sublabel_last" style="min-height:13px"> Last Name </label>
+            </span>
+          </div>
+        </div>
+      </li>
+      <li class="form-line" data-type="control_phone" id="id_22">
+        <label class="form-label form-label-top form-label-auto" id="label_22" for="input_22_full"> Phone Number </label>
+        <div id="cid_22" class="form-input-wide">
+          <span class="form-sub-label-container" style="vertical-align:top">
+            <input type="tel" id="input_22_full" name="q22_phoneNumber[full]" data-type="mask-number" class="mask-phone-number form-textbox validate[Fill Mask]" autoComplete="off" data-masked="true" value="" data-component="phone" />
+            <label class="form-sub-label" for="input_22_masked" id="sublabel_masked" style="min-height:13px">  </label>
+          </span>
+        </div>
+      </li>
+      <li class="form-line jf-required" data-type="control_email" id="id_9">
+        <label class="form-label form-label-top" id="label_9" for="input_9">
+          E-mail
+          <span class="form-required">
+            *
+          </span>
+        </label>
+        <div id="cid_9" class="form-input-wide jf-required">
+          <input type="email" id="input_9" name="q9_email9" class="form-textbox validate[required, Email]" size="30" value="" placeholder="ex: myname@example.com" data-component="email" required="" />
+        </div>
+      </li>
+      <li class="form-line" data-type="control_checkbox" id="id_14">
+        <label class="form-label form-label-top form-label-auto" id="label_14" for="input_14_0"> Interested in: </label>
+        <div id="cid_14" class="form-input-wide">
+          <div class="form-single-column" data-component="checkbox">
+            <span class="form-checkbox-item" style="clear:left">
+              <span class="dragger-item">
+              </span>
+              <input type="checkbox" class="form-checkbox" id="input_14_0" name="q14_interestedIn14[]" value="Weekend Yosemite (April)" />
+              <label id="label_input_14_0" for="input_14_0"> Weekend Yosemite (April) </label>
+            </span>
+            <span class="form-checkbox-item" style="clear:left">
+              <span class="dragger-item">
+              </span>
+              <input type="checkbox" class="form-checkbox" id="input_14_1" name="q14_interestedIn14[]" value="Talent Show (April)" />
+              <label id="label_input_14_1" for="input_14_1"> Talent Show (April) </label>
+            </span>
+            <span class="form-checkbox-item" style="clear:left">
+              <span class="dragger-item">
+              </span>
+              <input type="checkbox" class="form-checkbox" id="input_14_2" name="q14_interestedIn14[]" value="Yom Hatzmaut (May)" />
+              <label id="label_input_14_2" for="input_14_2"> Yom Hatzmaut (May) </label>
+            </span>
+            <span class="form-checkbox-item" style="clear:left">
+              <span class="dragger-item">
+              </span>
+              <input type="checkbox" class="form-checkbox" id="input_14_3" name="q14_interestedIn14[]" value="Weekend Tahoe (May)" />
+              <label id="label_input_14_3" for="input_14_3"> Weekend Tahoe (May) </label>
+            </span>
+            <span class="form-checkbox-item" style="clear:left">
+              <input type="checkbox" class="form-checkbox-other form-checkbox" name="q14_interestedIn14[other]" id="other_14" value="other" />
+              <label style="display:inline-block;text-indent:0" for="other_14">  </label>
+              <input type="text" class="form-checkbox-other-input form-textbox" name="q14_interestedIn14[other]" data-otherhint="Other ideas?" placeholder="Other ideas?" size="15" id="input_14" />
+              <br/>
+            </span>
+          </div>
+        </div>
+      </li>
+      <li class="form-line" data-type="control_textarea" id="id_16">
+        <label class="form-label form-label-top form-label-auto" id="label_16" for="input_16"> Comments </label>
+        <div id="cid_16" class="form-input-wide">
+          <span class="form-sub-label-container" style="vertical-align:top">
+            <textarea id="input_16" class="form-textarea" name="q16_comments" cols="40" rows="6" data-component="textarea"></textarea>
+            <label class="form-sub-label" for="input_16" style="min-height:13px"> Let me know if you want to add events looking for volunteers </label>
+          </span>
+        </div>
+      </li>
+      <li class="form-line" data-type="control_button" id="id_2">
+        <div id="cid_2" class="form-input-wide">
+          <div style="margin-left:156px" class="form-buttons-wrapper">
+            <button id="input_2" type="submit" class="form-submit-button form-submit-button-simple_green_apple" data-component="button">
+              Submit Form
+            </button>
+          </div>
+        </div>
+      </li>
+      <li style="display:none">
+        Should be Empty:
+        <input type="text" name="website" value="" />
+      </li>
+    </ul>
+  </div>
+  <!-- <script>
+  JotForm.showJotFormPowered = "new_footer";
+  </script>
+  <input type="hidden" id="simple_spc" name="simple_spc" value="90577425056158" />
+  <script type="text/javascript">
+  document.getElementById("si" + "mple" + "_spc").value = "90577425056158-90577425056158";
+  </script>
+  <div class="formFooter-heightMask">
+  </div>
+  <div class="formFooter f6">
+    <a href="https://www.jotform.com/pricing?utm_source=formfooter&utm_medium=banner&utm_term=90577425056158&utm_content=jotform_logo&utm_campaign=powered_by_jotform_le" target="_blank" class="formFooter-logoLink"><img class="formFooter-logo" src="https://cdn.jotfor.ms/assets/img/logo/logo-new@1x.png" alt="" style="height: 44px;"></a>
+    <div class="formFooter-rightSide">
+      <span class="formFooter-text">
+        Now create your own JotForm - It's free!
+      </span>
+      <a class="formFooter-button" href="https://www.jotform.com/?utm_source=formfooter&utm_medium=banner&utm_term=90577425056158&utm_content=jotform_button&utm_campaign=powered_by_jotform_le" target="_blank">Create your own JotForm</a>
+    </div>
+  </div> -->
+</form>
+<script type="text/javascript">JotForm.ownerView=true;</script>
