@@ -13,25 +13,7 @@ Current events looking for volunteers:
 
 If you're looking for volunteers for your events, message me at <a href="https://www.facebook.com/messages/t/sagirsaar">Saar Sagir</a>
 
-<script src="https://cdn.jotfor.ms/js/vendor/jquery-1.8.0.min.js?v=3.3.10207" type="text/javascript"></script>
-<script src="https://cdn.jotfor.ms/js/vendor/maskedinput.min.js?v=3.3.10207" type="text/javascript"></script>
-<script src="https://cdn.jotfor.ms/js/vendor/jquery.maskedinput.min.js?v=3.3.10207" type="text/javascript"></script>
-<script src="https://cdn.jotfor.ms/static/prototype.forms.js" type="text/javascript"></script>
-<script src="https://cdn.jotfor.ms/static/jotform.forms.js?3.3.10207" type="text/javascript"></script>
-<script type="text/javascript">
-   JotForm.setConditions([{"action":[{"field":"21","visibility":"Show","id":"action_0_1551310672039"}],"id":"1551310644216","index":"0","link":"Any","priority":"0","terms":[{"field":"11","operator":"equals","value":"Other"}],"type":"field"}]);
-	JotForm.init(function(){
-      JotForm.setPhoneMaskingValidator( 'input_22_full', '(###) ###-####' );
-      setTimeout(function() {
-          $('input_9').hint('ex: myname@example.com');
-       }, 20);
-    /*INIT-END*/
-	});
 
-   JotForm.prepareCalculationsOnTheFly([null,null,{"name":"submitForm","qid":"2","text":"Submit Form","type":"control_button"},{"name":"fullName","qid":"3","text":"Full Name","type":"control_fullname"},null,null,null,null,null,{"name":"email9","qid":"9","text":"E-mail","type":"control_email"},null,null,null,null,{"name":"interestedIn14","qid":"14","text":"Interested in:","type":"control_checkbox"},null,{"name":"comments","qid":"16","subLabel":"Let me know if you want to add events looking for volunteers","text":"Comments","type":"control_textarea"},{"name":"cohostEvents","qid":"17","text":"Cohost here!","type":"control_head"},null,null,null,null,{"description":"","name":"phoneNumber","qid":"22","text":"Phone Number","type":"control_phone"}]);
-   setTimeout(function() {
-JotForm.paymentExtrasOnTheFly([null,null,{"name":"submitForm","qid":"2","text":"Submit Form","type":"control_button"},{"name":"fullName","qid":"3","text":"Full Name","type":"control_fullname"},null,null,null,null,null,{"name":"email9","qid":"9","text":"E-mail","type":"control_email"},null,null,null,null,{"name":"interestedIn14","qid":"14","text":"Interested in:","type":"control_checkbox"},null,{"name":"comments","qid":"16","subLabel":"Let me know if you want to add events looking for volunteers","text":"Comments","type":"control_textarea"},{"name":"cohostEvents","qid":"17","text":"Cohost here!","type":"control_head"},null,null,null,null,{"description":"","name":"phoneNumber","qid":"22","text":"Phone Number","type":"control_phone"}]);}, 20);
-</script>
 <link href="https://cdn.jotfor.ms/static/formCss.css?3.3.10207" rel="stylesheet" type="text/css" />
 <link type="text/css" media="print" rel="stylesheet" href="https://cdn.jotfor.ms/css/printForm.css?3.3.10207" />
 <link type="text/css" rel="stylesheet" href="https://cdn.jotfor.ms/css/styles/nova.css?3.3.10207" />
@@ -321,4 +303,23 @@ JotForm.paymentExtrasOnTheFly([null,null,{"name":"submitForm","qid":"2","text":"
     </div>
   </div> -->
 </form>
+<script src="https://cdn.jotfor.ms/js/vendor/jquery-1.8.0.min.js?v=3.3.10207" type="text/javascript"></script>
+<script src="https://cdn.jotfor.ms/js/vendor/maskedinput.min.js?v=3.3.10207" type="text/javascript"></script>
+<script src="https://cdn.jotfor.ms/js/vendor/jquery.maskedinput.min.js?v=3.3.10207" type="text/javascript"></script>
+<script src="https://cdn.jotfor.ms/static/prototype.forms.js" type="text/javascript"></script>
+<script src="https://cdn.jotfor.ms/static/jotform.forms.js?3.3.10207" type="text/javascript"></script>
+<script type="text/javascript">
+   JotForm.setConditions([{"action":[{"field":"21","visibility":"Show","id":"action_0_1551310672039"}],"id":"1551310644216","index":"0","link":"Any","priority":"0","terms":[{"field":"11","operator":"equals","value":"Other"}],"type":"field"}]);
+	JotForm.init(function(){
+      JotForm.setPhoneMaskingValidator( 'input_22_full', '(###) ###-####' );
+      setTimeout(function() {
+          $('input_9').hint('ex: myname@example.com');
+       }, 20);
+    /*INIT-END*/
+	});
+
+   JotForm.prepareCalculationsOnTheFly([null,null,{"name":"submitForm","qid":"2","text":"Submit Form","type":"control_button"},{"name":"fullName","qid":"3","text":"Full Name","type":"control_fullname"},null,null,null,null,null,{"name":"email9","qid":"9","text":"E-mail","type":"control_email"},null,null,null,null,{"name":"interestedIn14","qid":"14","text":"Interested in:","type":"control_checkbox"},null,{"name":"comments","qid":"16","subLabel":"Let me know if you want to add events looking for volunteers","text":"Comments","type":"control_textarea"},{"name":"cohostEvents","qid":"17","text":"Cohost here!","type":"control_head"},null,null,null,null,{"description":"","name":"phoneNumber","qid":"22","text":"Phone Number","type":"control_phone"}]);
+   setTimeout(function() {
+JotForm.paymentExtrasOnTheFly([null,null,{"name":"submitForm","qid":"2","text":"Submit Form","type":"control_button"},{"name":"fullName","qid":"3","text":"Full Name","type":"control_fullname"},null,null,null,null,null,{"name":"email9","qid":"9","text":"E-mail","type":"control_email"},null,null,null,null,{"name":"interestedIn14","qid":"14","text":"Interested in:","type":"control_checkbox"},null,{"name":"comments","qid":"16","subLabel":"Let me know if you want to add events looking for volunteers","text":"Comments","type":"control_textarea"},{"name":"cohostEvents","qid":"17","text":"Cohost here!","type":"control_head"},null,null,null,null,{"description":"","name":"phoneNumber","qid":"22","text":"Phone Number","type":"control_phone"}]);}, 20);
+</script>
 <script type="text/javascript">JotForm.ownerView=true;</script>
