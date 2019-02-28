@@ -5,22 +5,13 @@ subtitle: "Looking for people to partner with me on events"
 comments: true
 ---
 
-Current events list looking for volunteers:
-
-- **Overnight to Yosemite**, April 12th-14th
-  - Looking for help with getting or preparing Kosher Food
-- **Yom Hatzmaut Party** in South Bay, May 12th
-  - Looking for more funding for our massive 200+ people party
-- **Talent Show**, mid April (TBD)
-  - Looking for help with logistics
-  - Need more people to perform for the show
-- **Napa/Tahoe trip**, May (TBD)
-  - Working with CYP, looking for help with logistics
-<br>
+Current events looking for volunteers:
+- **Overnight to Yosemite**, (April 12th-14th) - Kosher food and trails
+- **Yom Hatzmaut Party South Bay**, (May 12th) - Funding and logistics
+- **Talent Show**, (TBD April) - Performers and logistics
+- **Napa/Tahoe trip**, (TBD May) - Logistics with CYP
 
 If you're looking for volunteers for your events, message me at <a href="https://www.facebook.com/messages/t/sagirsaar">Saar Sagir</a>
-
-<center><h4>Please fill out the form below if you're able to help</h4></center>
 
 <script src="https://cdn.jotfor.ms/js/vendor/jquery-1.8.0.min.js?v=3.3.10207" type="text/javascript"></script>
 <script src="https://cdn.jotfor.ms/js/vendor/maskedinput.min.js?v=3.3.10207" type="text/javascript"></script>
@@ -44,14 +35,14 @@ JotForm.paymentExtrasOnTheFly([null,null,{"name":"submitForm","qid":"2","text":"
 <link href="https://cdn.jotfor.ms/static/formCss.css?3.3.10207" rel="stylesheet" type="text/css" />
 <link type="text/css" media="print" rel="stylesheet" href="https://cdn.jotfor.ms/css/printForm.css?3.3.10207" />
 <link type="text/css" rel="stylesheet" href="https://cdn.jotfor.ms/css/styles/nova.css?3.3.10207" />
-<link type="text/css" rel="stylesheet" href="https://cdn.jotfor.ms/themes/CSS/566a91c2977cdfcd478b4567.css?themeRevisionID=59fb4852cf3bfe589c6c6f21"/>
+<link type="text/css" rel="stylesheet" href="/css/jotformtheme.css"/>
 <style type="text/css">
     .form-label-left{
         width:150px;
     }
     .form-line{
-        padding-top:12px;
-        padding-bottom:12px;
+        padding-top:6px;
+        padding-bottom:6px;
     }
     .form-label-right{
         width:150px;
@@ -59,7 +50,7 @@ JotForm.paymentExtrasOnTheFly([null,null,{"name":"submitForm","qid":"2","text":"
     .form-all{
         width:650px;
         color:#3e4e1a !important;
-        font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, sans-serif;
+        font-family:'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
         font-size:14px;
     }
     .form-radio-item label, .form-checkbox-item label, .form-grading-label, .form-header{
@@ -72,44 +63,36 @@ JotForm.paymentExtrasOnTheFly([null,null,{"name":"submitForm","qid":"2","text":"
     /* Injected CSS Code */
 .form-label.form-label-auto {
 
-      display: block;
-      float: none;
-      text-align: left;
-      width: 100%;
+        display: inline-block;
+        float: left;
+        text-align: left;
 
       }/*PREFERENCES STYLE*/
     .form-all {
-      font-family: Lucida Grande, sans-serif;
+      font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     }
     .form-all .qq-upload-button,
     .form-all .form-submit-button,
     .form-all .form-submit-reset,
     .form-all .form-submit-print {
-      font-family: Lucida Grande, sans-serif;
+      font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     }
     .form-all .form-pagebreak-back-container,
     .form-all .form-pagebreak-next-container {
-      font-family: Lucida Grande, sans-serif;
+      font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     }
     .form-header-group {
-      font-family: Lucida Grande, sans-serif;
+      font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     }
     .form-label {
-      font-family: Lucida Grande, sans-serif;
+      font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     }
 
-    .form-label.form-label-auto {
 
-    display: block;
-    float: none;
-    text-align: left;
-    width: 100%;
-
-    }
 
     .form-line {
-      margin-top: 12px 36px 12px 36px px;
-      margin-bottom: 12px 36px 12px 36px px;
+      margin-top: 12px;
+      margin-bottom: 12px;
     }
 
     .form-all {
@@ -120,7 +103,7 @@ JotForm.paymentExtrasOnTheFly([null,null,{"name":"submitForm","qid":"2","text":"
     .form-label-right,
     .form-label-left.form-label-auto,
     .form-label-right.form-label-auto {
-      width: 150px;
+      width: 140px;
     }
 
     .form-all {
@@ -202,7 +185,7 @@ JotForm.paymentExtrasOnTheFly([null,null,{"name":"submitForm","qid":"2","text":"
 </style>
 
 <link type="text/css" rel="stylesheet" href="https://cdn.jotfor.ms/css/styles/buttons/form-submit-button-simple_green_apple.css?3.3.10207"/>
-<form class="jotform-form" action="https://submit.jotform.us/submit/90577425056158/" method="post" name="form_90577425056158" id="90577425056158" accept-charset="utf-8">
+<form class="jotform-form nopad" action="https://submit.jotform.us/submit/90577425056158/" method="post" name="form_90577425056158" id="90577425056158" accept-charset="utf-8">
   <input type="hidden" name="formID" value="90577425056158" />
   <div class="form-all">
     <ul class="form-section page-section">
@@ -213,19 +196,19 @@ JotForm.paymentExtrasOnTheFly([null,null,{"name":"submitForm","qid":"2","text":"
               Cohost here!
             </h2>
             <div id="subHeader_17" class="form-subHeader">
-              Enter your contact info below and Saar will reach out to you to connect you to the right people and be part of creating these incredible events
+              Fill out the form below and Saar will connect you to the right people
             </div>
           </div>
         </div>
       </li>
       <li class="form-line jf-required" data-type="control_fullname" id="id_3">
-        <label class="form-label form-label-top" id="label_3" for="first_3">
+        <label class="form-label form-label-left form-label-auto" id="label_3" for="first_3">
           Full Name
           <span class="form-required">
             *
           </span>
         </label>
-        <div id="cid_3" class="form-input-wide jf-required">
+        <div id="cid_3" class="form-input jf-required">
           <div data-wrapper-react="true">
             <span class="form-sub-label-container" style="vertical-align:top">
               <input type="text" id="first_3" name="q3_fullName[first]" class="form-textbox validate[required]" size="10" value="" data-component="first" required="" />
@@ -239,8 +222,8 @@ JotForm.paymentExtrasOnTheFly([null,null,{"name":"submitForm","qid":"2","text":"
         </div>
       </li>
       <li class="form-line" data-type="control_phone" id="id_22">
-        <label class="form-label form-label-top form-label-auto" id="label_22" for="input_22_full"> Phone Number </label>
-        <div id="cid_22" class="form-input-wide">
+        <label class="form-label form-label-left form-label-auto" id="label_22" for="input_22_full"> Phone Number </label>
+        <div id="cid_22" class="form-input">
           <span class="form-sub-label-container" style="vertical-align:top">
             <input type="tel" id="input_22_full" name="q22_phoneNumber[full]" data-type="mask-number" class="mask-phone-number form-textbox validate[Fill Mask]" autoComplete="off" data-masked="true" value="" data-component="phone" />
             <label class="form-sub-label" for="input_22_masked" id="sublabel_masked" style="min-height:13px">  </label>
@@ -248,19 +231,19 @@ JotForm.paymentExtrasOnTheFly([null,null,{"name":"submitForm","qid":"2","text":"
         </div>
       </li>
       <li class="form-line jf-required" data-type="control_email" id="id_9">
-        <label class="form-label form-label-top" id="label_9" for="input_9">
+        <label class="form-label form-label-left form-label-auto" id="label_9" for="input_9">
           E-mail
           <span class="form-required">
             *
           </span>
         </label>
-        <div id="cid_9" class="form-input-wide jf-required">
+        <div id="cid_9" class="form-input jf-required">
           <input type="email" id="input_9" name="q9_email9" class="form-textbox validate[required, Email]" size="30" value="" placeholder="ex: myname@example.com" data-component="email" required="" />
         </div>
       </li>
       <li class="form-line" data-type="control_checkbox" id="id_14">
-        <label class="form-label form-label-top form-label-auto" id="label_14" for="input_14_0"> Interested in: </label>
-        <div id="cid_14" class="form-input-wide">
+        <label class="form-label form-label-left form-label-auto" id="label_14" for="input_14_0"> Interested in: </label>
+        <div id="cid_14" class="form-input">
           <div class="form-single-column" data-component="checkbox">
             <span class="form-checkbox-item" style="clear:left">
               <span class="dragger-item">
@@ -296,8 +279,8 @@ JotForm.paymentExtrasOnTheFly([null,null,{"name":"submitForm","qid":"2","text":"
         </div>
       </li>
       <li class="form-line" data-type="control_textarea" id="id_16">
-        <label class="form-label form-label-top form-label-auto" id="label_16" for="input_16"> Comments </label>
-        <div id="cid_16" class="form-input-wide">
+        <label class="form-label form-label-left form-label-auto" id="label_16" for="input_16"> Comments </label>
+        <div id="cid_16" class="form-input">
           <span class="form-sub-label-container" style="vertical-align:top">
             <textarea id="input_16" class="form-textarea" name="q16_comments" cols="40" rows="6" data-component="textarea"></textarea>
             <label class="form-sub-label" for="input_16" style="min-height:13px"> Let me know if you want to add events looking for volunteers </label>

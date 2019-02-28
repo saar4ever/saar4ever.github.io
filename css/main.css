@@ -850,6 +850,15 @@ td.gutter {
 .cleantxt {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
+.halfwide {
+  width:50%!important;
+}
+.fullwide {
+  width:100%!important;
+}
+.nopad {
+  padding:0!important;
+}
 /* remove rounding from cards, buttons and inputs */
 .btn {
   border-radius: 20;
