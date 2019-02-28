@@ -6,10 +6,10 @@ comments: true
 ---
 
 Current events looking for volunteers:
-- **Overnight to Yosemite**, (April 12th-14th) - Kosher food and trails - Personal
-- **Yom Hatzmaut Party South Bay**, (May 12th) - Funding and logistics - JHTC 2.0
-- **Talent Show**, (TBD April) - Performers and logistics - JHTC 2.0
-- **Napa/Tahoe trip**, (TBD May) - Logistics - CYP
+- **Overnight to Yosemite**, (April 12th-14th) - Kosher food and trails - *Saar*
+- **Yom Hatzmaut Party South Bay**, (May 12th) - Funding and logistics - *JHTC 2.0*
+- **Talent Show**, (TBD April) - Performers and logistics - *JHTC 2.0*
+- **Napa/Tahoe trip**, (TBD May) - Logistics - *CYP*
 
 If you're looking for volunteers for your events, message me at <a href="https://www.facebook.com/messages/t/sagirsaar">Saar Sagir</a>
 
