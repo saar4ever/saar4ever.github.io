@@ -13,10 +13,9 @@ Current events looking for volunteers:
 
 If you're looking for volunteers for your events, message me at <a href="https://www.facebook.com/messages/t/sagirsaar">Saar Sagir</a>
 
-
-<link href="https://cdn.jotfor.ms/static/formCss.css?3.3.10207" rel="stylesheet" type="text/css" />
-<link type="text/css" media="print" rel="stylesheet" href="https://cdn.jotfor.ms/css/printForm.css?3.3.10207" />
-<link type="text/css" rel="stylesheet" href="https://cdn.jotfor.ms/css/styles/nova.css?3.3.10207" />
+<link type="text/css" rel="stylesheet" href="/css/formCss.css"/>
+<link type="text/css" media="print" rel="stylesheet" href="/css/printForm.css" />
+<link type="text/css" rel="stylesheet" href="/css/nova.css" />
 <link type="text/css" rel="stylesheet" href="/css/jotformtheme.css"/>
 <style type="text/css">
     .form-label-left{
@@ -38,7 +37,6 @@ If you're looking for volunteers for your events, message me at <a href="https:/
     .form-radio-item label, .form-checkbox-item label, .form-grading-label, .form-header{
         color: false;
     }
-
 </style>
 
 <style type="text/css" id="form-designer-style">
@@ -46,121 +44,119 @@ If you're looking for volunteers for your events, message me at <a href="https:/
 .form-label.form-label-auto {
 
         display: inline-block;
-        float: left;
-        text-align: left;
+      float: left;
+      text-align: left;
 
-      }/*PREFERENCES STYLE*/
-    .form-all {
-      font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    }
-    .form-all .qq-upload-button,
-    .form-all .form-submit-button,
-    .form-all .form-submit-reset,
-    .form-all .form-submit-print {
-      font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    }
-    .form-all .form-pagebreak-back-container,
-    .form-all .form-pagebreak-next-container {
-      font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    }
-    .form-header-group {
-      font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    }
-    .form-label {
-      font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    }
+  }/*PREFERENCES STYLE*/
+.form-all {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.form-all .qq-upload-button,
+.form-all .form-submit-button,
+.form-all .form-submit-reset,
+.form-all .form-submit-print {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.form-all .form-pagebreak-back-container,
+.form-all .form-pagebreak-next-container {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.form-header-group {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.form-label {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
 
+.form-line {
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
 
+.form-all {
+  width: 650px;
+}
 
-    .form-line {
-      margin-top: 6px;
-      margin-bottom: 6px;
-    }
+.form-label-left,
+.form-label-right,
+.form-label-left.form-label-auto,
+.form-label-right.form-label-auto {
+  width: 140px;
+}
 
-    .form-all {
-      width: 650px;
-    }
+.form-all {
+  font-size: 14px
+}
+.form-all .qq-upload-button,
+.form-all .qq-upload-button,
+.form-all .form-submit-button,
+.form-all .form-submit-reset,
+.form-all .form-submit-print {
+  font-size: 14px
+}
+.form-all .form-pagebreak-back-container,
+.form-all .form-pagebreak-next-container {
+  font-size: 14px
+}
 
-    .form-label-left,
-    .form-label-right,
-    .form-label-left.form-label-auto,
-    .form-label-right.form-label-auto {
-      width: 140px;
-    }
+.supernova .form-all, .form-all {
+  background-color: rgba(213,238,243,0.5);
+  border: 1px solid transparent;
+}
 
-    .form-all {
-      font-size: 14px
-    }
-    .form-all .qq-upload-button,
-    .form-all .qq-upload-button,
-    .form-all .form-submit-button,
-    .form-all .form-submit-reset,
-    .form-all .form-submit-print {
-      font-size: 14px
-    }
-    .form-all .form-pagebreak-back-container,
-    .form-all .form-pagebreak-next-container {
-      font-size: 14px
-    }
+.form-all {
+  color: #3e4e1a;
+}
+.form-header-group .form-header {
+  color: #3e4e1a;
+}
+.form-header-group .form-subHeader {
+  color: #3e4e1a;
+}
+.form-label-top,
+.form-label-left,
+.form-label-right,
+.form-html,
+.form-checkbox-item label,
+.form-radio-item label {
+  color: #3e4e1a;
+}
+.form-sub-label {
+  color: #586834;
+}
 
-    .supernova .form-all, .form-all {
-      background-color: rgba(213,238,243,0.5);
-      border: 1px solid transparent;
-    }
+.supernova {
+  background-color: rgba(255,255,255,0);
+}
+.supernova body {
+  background: transparent;
+}
 
-    .form-all {
-      color: #3e4e1a;
-    }
-    .form-header-group .form-header {
-      color: #3e4e1a;
-    }
-    .form-header-group .form-subHeader {
-      color: #3e4e1a;
-    }
-    .form-label-top,
-    .form-label-left,
-    .form-label-right,
-    .form-html,
-    .form-checkbox-item label,
-    .form-radio-item label {
-      color: #3e4e1a;
-    }
-    .form-sub-label {
-      color: #586834;
-    }
+.form-textbox,
+.form-textarea,
+.form-radio-other-input,
+.form-checkbox-other-input,
+.form-captcha input,
+.form-spinner input {
+  background-color: rgba(255,255,255,0.5);
+}
 
-    .supernova {
-      background-color: rgba(255,255,255,0);
-    }
-    .supernova body {
-      background: transparent;
-    }
+.supernova {
+  background-image: none;
+}
+#stage {
+  background-image: none;
+}
 
-    .form-textbox,
-    .form-textarea,
-    .form-radio-other-input,
-    .form-checkbox-other-input,
-    .form-captcha input,
-    .form-spinner input {
-      background-color: rgba(255,255,255,0.5);
-    }
+.form-all {
+  background-image: none;
+}
 
-    .supernova {
-      background-image: none;
-    }
-    #stage {
-      background-image: none;
-    }
-
-    .form-all {
-      background-image: none;
-    }
-
-  .ie-8 .form-all:before { display: none; }
-  .ie-8 {
-    margin-top: auto;
-    margin-top: initial;
-  }
+.ie-8 .form-all:before { display: none; }
+.ie-8 {
+  margin-top: auto;
+  margin-top: initial;
+}
 
   /*PREFERENCES STYLE*//*__INSPECT_SEPERATOR__*/
     /* Injected CSS Code */
@@ -284,30 +280,12 @@ If you're looking for volunteers for your events, message me at <a href="https:/
       </li>
     </ul>
   </div>
-  <!-- <script>
-  JotForm.showJotFormPowered = "new_footer";
-  </script>
-  <input type="hidden" id="simple_spc" name="simple_spc" value="90577425056158" />
-  <script type="text/javascript">
-  document.getElementById("si" + "mple" + "_spc").value = "90577425056158-90577425056158";
-  </script>
-  <div class="formFooter-heightMask">
-  </div>
-  <div class="formFooter f6">
-    <a href="https://www.jotform.com/pricing?utm_source=formfooter&utm_medium=banner&utm_term=90577425056158&utm_content=jotform_logo&utm_campaign=powered_by_jotform_le" target="_blank" class="formFooter-logoLink"><img class="formFooter-logo" src="https://cdn.jotfor.ms/assets/img/logo/logo-new@1x.png" alt="" style="height: 44px;"></a>
-    <div class="formFooter-rightSide">
-      <span class="formFooter-text">
-        Now create your own JotForm - It's free!
-      </span>
-      <a class="formFooter-button" href="https://www.jotform.com/?utm_source=formfooter&utm_medium=banner&utm_term=90577425056158&utm_content=jotform_button&utm_campaign=powered_by_jotform_le" target="_blank">Create your own JotForm</a>
-    </div>
-  </div> -->
 </form>
-<script src="https://cdn.jotfor.ms/js/vendor/jquery-1.8.0.min.js?v=3.3.10207" type="text/javascript"></script>
-<script src="https://cdn.jotfor.ms/js/vendor/maskedinput.min.js?v=3.3.10207" type="text/javascript"></script>
-<script src="https://cdn.jotfor.ms/js/vendor/jquery.maskedinput.min.js?v=3.3.10207" type="text/javascript"></script>
-<script src="https://cdn.jotfor.ms/static/prototype.forms.js" type="text/javascript"></script>
-<script src="https://cdn.jotfor.ms/static/jotform.forms.js?3.3.10207" type="text/javascript"></script>
+<script src='/js/jquery-3.3.1.min.js' type="text/javascript"></script>
+<script src='/js/jquery.maskedinput.min.js' type="text/javascript"></script>
+<script src='/js/maskedinput.min.js' type="text/javascript"></script>
+<script src='/js/prototype.forms.js' type="text/javascript"></script>
+<script src='/js/jotform.forms.js' type="text/javascript"></script>
 <script type="text/javascript">
    JotForm.setConditions([{"action":[{"field":"21","visibility":"Show","id":"action_0_1551310672039"}],"id":"1551310644216","index":"0","link":"Any","priority":"0","terms":[{"field":"11","operator":"equals","value":"Other"}],"type":"field"}]);
 	JotForm.init(function(){
@@ -317,9 +295,5 @@ If you're looking for volunteers for your events, message me at <a href="https:/
        }, 20);
     /*INIT-END*/
 	});
-
-   JotForm.prepareCalculationsOnTheFly([null,null,{"name":"submitForm","qid":"2","text":"Submit Form","type":"control_button"},{"name":"fullName","qid":"3","text":"Full Name","type":"control_fullname"},null,null,null,null,null,{"name":"email9","qid":"9","text":"E-mail","type":"control_email"},null,null,null,null,{"name":"interestedIn14","qid":"14","text":"Interested in:","type":"control_checkbox"},null,{"name":"comments","qid":"16","subLabel":"Let me know if you want to add events looking for volunteers","text":"Comments","type":"control_textarea"},{"name":"cohostEvents","qid":"17","text":"Cohost here!","type":"control_head"},null,null,null,null,{"description":"","name":"phoneNumber","qid":"22","text":"Phone Number","type":"control_phone"}]);
-   setTimeout(function() {
-JotForm.paymentExtrasOnTheFly([null,null,{"name":"submitForm","qid":"2","text":"Submit Form","type":"control_button"},{"name":"fullName","qid":"3","text":"Full Name","type":"control_fullname"},null,null,null,null,null,{"name":"email9","qid":"9","text":"E-mail","type":"control_email"},null,null,null,null,{"name":"interestedIn14","qid":"14","text":"Interested in:","type":"control_checkbox"},null,{"name":"comments","qid":"16","subLabel":"Let me know if you want to add events looking for volunteers","text":"Comments","type":"control_textarea"},{"name":"cohostEvents","qid":"17","text":"Cohost here!","type":"control_head"},null,null,null,null,{"description":"","name":"phoneNumber","qid":"22","text":"Phone Number","type":"control_phone"}]);}, 20);
 </script>
 <script type="text/javascript">JotForm.ownerView=true;</script>
