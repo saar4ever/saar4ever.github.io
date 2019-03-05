@@ -40,3 +40,5 @@ subtitle: Jewish Young Adult Bay Area Events
 </script>
 
 <div id='calendar'></div>
+
+<center><h5>Thank you <a href="https://www.facebook.com/Avirlila">Ella Gotesman</a> for helping keep the calendar up to date</h5></center>
