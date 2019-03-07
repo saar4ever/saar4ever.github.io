@@ -274,7 +274,7 @@ If you're looking for volunteers for your events, message me at <a href="https:/
       </li>
       <li class="form-line" data-type="control_button" id="id_2">
         <div id="cid_2" class="form-input-wide">
-          <div style="margin-left:156px" class="form-buttons-wrapper">
+          <div style="text-align:center" class="form-buttons-wrapper">
             <button id="input_2" type="submit" class="form-submit-button form-submit-button-simple_green_apple" data-component="button">
               Submit Form
             </button>
@@ -288,7 +288,7 @@ If you're looking for volunteers for your events, message me at <a href="https:/
     </ul>
   </div>
 </form>
-<script src='/js/jquery-3.3.1.min.js' type="text/javascript"></script>
+<script src='/js/jquery.min.js' type="text/javascript"></script>
 <script src='/js/jquery.maskedinput.min.js' type="text/javascript"></script>
 <script src='/js/maskedinput.min.js' type="text/javascript"></script>
 <script src='/js/prototype.forms.js' type="text/javascript"></script>

@@ -4,7 +4,9 @@ title: Calendar
 subtitle: Jewish Young Adult Bay Area Events
 ---
 
-<link rel='stylesheet' href='https://bootswatch.com/3/paper/bootstrap.min.css' />
+<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
+<!-- <link rel='stylesheet' href='https://bootswatch.com/3/paper/bootstrap.min.css' /> -->
+<link rel='stylesheet' href='/css/bootstrap_paper.min.css' />
 <link rel='stylesheet' href='/css/fullcalendar.css' />
 <script src='/js/jquery.min.js'></script>
 <script src='/js/moment.js'></script>
