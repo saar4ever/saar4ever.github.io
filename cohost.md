@@ -8,8 +8,9 @@ comments: true
 Current events looking for volunteers:
 - **Overnight to Yosemite**, (April 12th-14th) - Kosher food and trails - *Saar*
 - **Yom Hatzmaut Party South Bay**, (May 12th) - Funding and logistics - *JHTC 2.0*
-- **Talent Show**, (TBD April) - Performers and logistics - *JHTC 2.0*
+- **Mixer**, (TBD April) - Logistics and set up - *JHTC 2.0*
 - **Napa/Tahoe trip**, (TBD May) - Logistics - *CYP*
+- **Hikes**, (Any) - Trail suggestions and logistics - *Saar*
 
 If you're looking for volunteers for your events, message me at <a href="https://www.facebook.com/messages/t/sagirsaar">Saar Sagir</a>
 
@@ -227,13 +228,13 @@ If you're looking for volunteers for your events, message me at <a href="https:/
               <span class="dragger-item">
               </span>
               <input type="checkbox" class="form-checkbox" id="input_14_0" name="q14_interestedIn14[]" value="Weekend Yosemite (April)" />
-              <label id="label_input_14_0" for="input_14_0"> Weekend Yosemite (April) </label>
+              <label id="label_input_14_0" for="input_14_0"> Weekend Yosemite (April 12) </label>
             </span>
             <span class="form-checkbox-item" style="clear:left">
               <span class="dragger-item">
               </span>
               <input type="checkbox" class="form-checkbox" id="input_14_1" name="q14_interestedIn14[]" value="Talent Show (April)" />
-              <label id="label_input_14_1" for="input_14_1"> Talent Show (April) </label>
+              <label id="label_input_14_1" for="input_14_1"> Mixer (April) </label>
             </span>
             <span class="form-checkbox-item" style="clear:left">
               <span class="dragger-item">
@@ -246,6 +247,12 @@ If you're looking for volunteers for your events, message me at <a href="https:/
               </span>
               <input type="checkbox" class="form-checkbox" id="input_14_3" name="q14_interestedIn14[]" value="Weekend Tahoe (May)" />
               <label id="label_input_14_3" for="input_14_3"> Weekend Tahoe (May) </label>
+            </span>
+            <span class="form-checkbox-item" style="clear:left">
+              <span class="dragger-item">
+              </span>
+              <input type="checkbox" class="form-checkbox" id="input_14_3" name="q14_interestedIn14[]" value="Weekend Tahoe (May)" />
+              <label id="label_input_14_4" for="input_14_4"> Hikes (Any) </label>
             </span>
             <span class="form-checkbox-item" style="clear:left">
               <input type="checkbox" class="form-checkbox-other form-checkbox" name="q14_interestedIn14[other]" id="other_14" value="other" />
