@@ -12,7 +12,8 @@ Current events looking for volunteers:
 - **Napa/Tahoe trip**, (TBD May) - Logistics - *CYP*
 - **Hikes**, (Any) - Trail suggestions and logistics - *Saar*
 
-If you're looking for volunteers for your events, message me at <a href="https://www.facebook.com/messages/t/sagirsaar">Saar Sagir</a>
+<center>If you're looking for volunteers for your events, message me at <a href="https://www.facebook.com/messages/t/sagirsaar">Saar Sagir</a></center>
+<br>
 
 <link type="text/css" rel="stylesheet" href="/css/formCss.css"/>
 <link type="text/css" media="print" rel="stylesheet" href="/css/printForm.css" />
