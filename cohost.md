@@ -233,7 +233,7 @@ If you're looking for volunteers for your events, message me at <a href="https:/
             <span class="form-checkbox-item" style="clear:left">
               <span class="dragger-item">
               </span>
-              <input type="checkbox" class="form-checkbox" id="input_14_1" name="q14_interestedIn14[]" value="Talent Show (April)" />
+              <input type="checkbox" class="form-checkbox" id="input_14_1" name="q14_interestedIn14[]" value="Mixer (April)" />
               <label id="label_input_14_1" for="input_14_1"> Mixer (April) </label>
             </span>
             <span class="form-checkbox-item" style="clear:left">
@@ -251,7 +251,7 @@ If you're looking for volunteers for your events, message me at <a href="https:/
             <span class="form-checkbox-item" style="clear:left">
               <span class="dragger-item">
               </span>
-              <input type="checkbox" class="form-checkbox" id="input_14_3" name="q14_interestedIn14[]" value="Weekend Tahoe (May)" />
+              <input type="checkbox" class="form-checkbox" id="input_14_3" name="q14_interestedIn14[]" value="Hikes (Any)" />
               <label id="label_input_14_4" for="input_14_4"> Hikes (Any) </label>
             </span>
             <span class="form-checkbox-item" style="clear:left">
