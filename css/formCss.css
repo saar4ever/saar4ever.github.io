@@ -89,7 +89,7 @@ td{padding-left:0px !important}.always-hidden{display:none !important}.dropdown-
 solid #9D9D9D;color:#444;position:relative}.signature-pad-passive .signature-line{border:1px
 solid #444;width:80%;position:absolute;bottom:50px;left:10%;right:10%}.signature-pad-wrapper .clear-pad-btn{cursor:pointer;text-decoration:underline;float:right;font-weight:bold;font-size:12px}.form-single-column
 .clearfix{display:inline-block}.form-single-column
-.clearfix{display:block}@media only screen and (max-device-width: 550px){body{font-size:18px}.form-all{width:auto !important}.form-label-left{float:none;display:block}.form-buttons-wrapper{margin:5px
+.clearfix{display:block}@media only screen and (max-device-width: 550px){body{font-size:13px}.form-all{width:auto !important}.form-label-left{float:none;display:block}.form-buttons-wrapper{margin:5px
 !important;text-align:center}.form-textarea{width:94% !important;white-space:pre-wrap}.form-textbox,.form-textarea,.form-dropdown,.form-list{border:1px
 solid #555;padding:4px;-webkit-border-radius:5px 5px;-webkit-box-shadow:0 2px 4px rgba(0,0,0, 0.4) inset;-moz-border-radius:5px 5px;-moz-box-shadow:0 2px 4px rgba(0,0,0, 0.4) inset;border-radius:5px 5px;box-shadow:0 2px 4px rgba(0,0,0, 0.4) inset}.form-address-table{width:300px}.form-address-line{width:280px}.form-address-city,.form-address-state{width:130px}.form-address-table td, .form-address-table
 th{padding-bottom:10px}.form-address-table
