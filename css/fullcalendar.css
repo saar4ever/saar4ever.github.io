@@ -43,7 +43,7 @@ body .fc {
   height: 2.1em;
   padding: 0 .6em;
   /* text & cursor */
-  font-size: 1em;
+  font-size: .75em;
   /* normalize */
   white-space: nowrap;
   cursor: pointer; }
@@ -207,7 +207,7 @@ hr.fc-divider {
   table-layout: fixed;
   border-collapse: collapse;
   border-spacing: 0;
-  font-size: 1em;
+  font-size: .9em;
   /* normalize cross-browser */ }
 
 .fc th {

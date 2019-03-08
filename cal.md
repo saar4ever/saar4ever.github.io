@@ -8,6 +8,7 @@ subtitle: Jewish Young Adult Bay Area Events
 <!-- <link rel='stylesheet' href='https://bootswatch.com/3/paper/bootstrap.min.css' /> -->
 <link rel='stylesheet' href='/css/bootstrap_paper.min.css' />
 <link rel='stylesheet' href='/css/fullcalendar.css' />
+<link rel='stylesheet' href='/css/main.css' />
 <script src='/js/jquery.min.js'></script>
 <script src='/js/moment.js'></script>
 <script src='/js/fullcalendar.js'></script>
@@ -206,7 +207,7 @@ subtitle: Jewish Young Adult Bay Area Events
               <b>Missing Event?</b>
             </h2>
             <div id="subHeader_17" class="form-subHeader">
-              Enter the event and link below and I will have it added to the calendar shortly
+              Enter the event below and I will have it added to the calendar shortly
             </div>
           </div>
         </div>
