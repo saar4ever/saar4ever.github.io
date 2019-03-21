@@ -14,9 +14,35 @@ subtitle: Jewish Young Adult Bay Area Events
 <script src='/js/fullcalendar.js'></script>
 <script type='text/javascript' src='/js/gcal.js'></script>
 
+<link rel='stylesheet' href='/css/jquery.qtip.min.css' />
+<script type='text/javascript' src='/js/jquery.qtip.min.js'></script>
 
 <script>
   $(function() {
+    var tooltip = $('<div/>').qtip({
+      id: 'fullcalendar',
+      prerender: true,
+      content: {
+        text: ' ',
+        title: {
+          button: true
+        }
+      },
+      position: {
+        my: 'bottom center',
+        at: 'top center',
+        target: 'mouse',
+        viewport: $('#calendar'),
+        adjust: {
+          mouse: false,
+          scroll: false
+        }
+      },
+      show: false,
+      hide: false,
+      style: 'qtip-light'
+    }).qtip('api');
+    
     $('#calendar').fullCalendar({
       header: {
         left: 'prev,next',
@@ -31,10 +57,12 @@ subtitle: Jewish Young Adult Bay Area Events
       fixedWeekCount: false,
       googleCalendarApiKey: 'AIzaSyAFJI5E7tJ3y143JM3ZWrzTWlScQxNQntg',
       events: 'bsp4pl7nrmbt1merbkuehqluj4@group.calendar.google.com',
-      eventClick: function(event) {
-        window.open(event.url, '_blank', 'width=700,height=600');
+
+      eventClick: function(event, jsEvent, view) {
+        var content = '<h6>'+event.title+'</h6>' + '<p><b>Description:</b> '+event.description;
+        tooltip.set({'content.text': content}).reposition(jsEvent).show(jsEvent);
         return false;
-      }
+      },
     });
     if($( document ).width() < 700){
        $('#calendar').fullCalendar('changeView', 'listWeek');
@@ -43,6 +71,8 @@ subtitle: Jewish Young Adult Bay Area Events
 </script>
 
 <div id='calendar'></div>
+<div id="popup"></div>
+
 
 <center><font size="3">Thank you <a href="https://www.facebook.com/Avirlila">Ella Gotesman</a> for helping keep the calendar up to date</font></center>
 
