@@ -40,7 +40,7 @@ subtitle: Jewish Young Adult Bay Area Events
       },
       show: false,
       hide: false,
-      style: 'qtip-light'
+      style: 'qtip-tipped'
     }).qtip('api');
     
     $('#calendar').fullCalendar({
@@ -65,7 +65,7 @@ subtitle: Jewish Young Adult Bay Area Events
       },
     });
     if($( document ).width() < 700){
-       $('#calendar').fullCalendar('changeView', 'listWeek');
+      $('#calendar').fullCalendar('changeView', 'listWeek');
     }
   });
 </script>
