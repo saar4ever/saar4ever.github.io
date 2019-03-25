@@ -7,7 +7,7 @@ comments: true
 
 Current events looking for volunteers:
 - **Overnight to Yosemite**, (April 12th-14th) - Kosher food and trails - *Saar*
-- **Yom Hatzmaut Party South Bay**, (May 12th) - Funding and logistics - *JHTC 2.0*
+- **Yom Hatzmaut Party South Bay**, (May 19th) - Funding and logistics - *JHTC 2.0*
 - **Mixer**, (TBD April) - Logistics and set up - *JHTC 2.0*
 - **Napa/Tahoe trip**, (TBD May) - Logistics - *CYP*
 - **Hikes**, (Any) - Trail suggestions and logistics - *Saar*
