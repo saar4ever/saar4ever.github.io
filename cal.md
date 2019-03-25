@@ -66,6 +66,7 @@ subtitle: Jewish Young Adult Bay Area Events
     });
     if($( document ).width() < 700){
       $('#calendar').fullCalendar('changeView', 'listWeek');
+      $('#calendar').fullCalendar('option', 'height', 500);
     }
   });
 </script>
