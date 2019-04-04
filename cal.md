@@ -238,7 +238,8 @@ subtitle: Jewish Young Adult Bay Area Events
               <b>Missing Event?</b>
             </h2>
             <div id="subHeader_17" class="form-subHeader">
-              Enter the event below and I will have it added to the calendar shortly
+              Enter the event below and I will have it added to the calendar shortly <br/>
+              Please enter your REAL NAME so I can contact you if I have questions on the event
             </div>
           </div>
         </div>
