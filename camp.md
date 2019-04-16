@@ -6,6 +6,7 @@ comments: true
 ---
 
 Join me for an amazing adventure to Camp Nai Nai Nai on the West Coast
+
 [Camp Info](https://www.campnainainai.org/westcoast/)
 [https://www.facebook.com/events/884685208544594](https://www.facebook.com/events/884685208544594)
 
