@@ -26,6 +26,7 @@ navbar-links:
   About Me: "https://saarx.com/aboutme/"
   Events: "https://saarx.com/cal/"
   Cohosts: "https://saarx.com/cohost/"
+  Camp: "https://saarx.com/camp/"
   Home: "https://saarx.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
