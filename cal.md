@@ -74,7 +74,7 @@ subtitle: Jewish Young Adult Bay Area Events
 <div id='calendar'></div>
 <div id="popup"></div>
 
-
+<center><font size="5"><a href="https://saarx.com/camp/">Join Camp Nai Nai Nai West</a></font></center>
 <center><font size="3">Thank you <a href="https://www.facebook.com/Avirlila">Ella Gotesman</a> for helping keep the calendar up to date</font></center>
 
 <link type="text/css" rel="stylesheet" href="/css/formCss.css"/>
